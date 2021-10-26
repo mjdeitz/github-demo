@@ -3,3 +3,7 @@ function foo() {
 }
 
 foo();
+
+function g() {
+    //TODO
+}
